@@ -1,8 +1,8 @@
 void main() {
   // Definición de variables
-  String nombre = 'Jose David Daza Camacho';
-  String sexo = 'Masculino';
-  int edad = 23;
+  String nombre = 'nicol cordoba maldonado';
+  String sexo = 'femenino';
+  int edad = 17;
   int salario = 2500000; // Solo la parte entera
   String tieneVehiculo = 'no';
 
